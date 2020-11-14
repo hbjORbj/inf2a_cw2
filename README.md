@@ -1,1 +1,3 @@
-# inf2a_cw2
+# Inf2A: Processing Formal and Natural Languages
+
+A Natural Language Query System in Python/NLTK
